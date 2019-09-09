@@ -44,6 +44,8 @@ Vigenère 密码(noip2012提高组day1第1题)
 
 跳石头(noip2015提高组day2第1题)
 
+子串(noip2015提高组day2第2题)
+
 玩具谜题(noip2016提高组day1第1题)
 
 小凯的疑惑（noip2017提高组day1T1）
