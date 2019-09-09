@@ -48,6 +48,8 @@ Vigenère 密码(noip2012提高组day1第1题)
 
 玩具谜题(noip2016提高组day1第1题)
 
+蚯蚓(noip2016提高组day2第2题)
+
 小凯的疑惑（noip2017提高组day1T1）
 
 >作者: RobertLuo
