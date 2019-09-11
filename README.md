@@ -52,7 +52,9 @@ Vigenère 密码(NOIP2012提高组day1第1题)
 
 蚯蚓(NOIP2016提高组day2第2题)
 
-小凯的疑惑（NOIP2017提高组day1T1）
+小凯的疑惑（NOIP2017提高组day1第1题）
+
+奶酪（NOIP2017提高组day2第1题）
 
 >作者: RobertLuo
 
